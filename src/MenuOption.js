@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import React, { Component, PropTypes } from 'react';
 import { View, StyleSheet, Text } from 'react-native';
 import { debug } from './logger';
 import { makeTouchable } from './helpers';
